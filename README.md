@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> 👋, I'm Eranga</h1>
+<h1 align="center"> 👋 I'm Eranga</h1>
 <h3 align="center">A passionate mobile developer from Sri Lanka</h3>
 
 - 🔭 I’m an undergraduate at [Sabaragamuwa University of Sri Lanka.](https://www.sab.ac.lk/)
