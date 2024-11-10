@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eranga2000" alt="eranga2000" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter GetX State Management**
+- 🌱 I’m currently learning **php**
 
 - 📫 How to reach me **erangamadhushan123@gmail.com**
 
