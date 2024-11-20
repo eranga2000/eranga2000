@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eranga2000" alt="eranga2000" /></a> </p>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **design paterns**
 
 - 📫 How to reach me **erangamadhushan123@gmail.com**
 
