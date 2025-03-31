@@ -35,7 +35,7 @@
 </div>
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
-  <a href="https://www.linkedin.com/in/eranga2000" target="_blank">
+  <a href="https://www.linkedin.com/in/erangamadhushan" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
 </div>
