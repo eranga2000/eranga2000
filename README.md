@@ -33,7 +33,7 @@
   <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino">
 </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandunLB&theme=redical&hide_title=false&area=true&hide_border=true&radius=1&custom_title=My%20Contribution%20Graph%20:)" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eranga2000&theme=redical&hide_title=false&area=true&hide_border=true&radius=1&custom_title=My%20Contribution%20Graph%20:)" height="400" alt="activity-graph graph"  />
 </div>
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
   <a href="https://www.linkedin.com/in/erangamadhushan" target="_blank">
