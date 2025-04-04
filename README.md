@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/eranga2000">
     <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranga2000&layout=compact&langs_count=7&theme=algolia"/>
-    <img height="140em" src="https://streak-stats.demolab.com?user=eranga2000&theme=algolia" alt="GitHub Streak" />  
+   <!-- <img height="140em" src="https://streak-stats.demolab.com?user=eranga2000&theme=algolia" alt="GitHub Streak" />  -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eranga2000&theme=algolia">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eranga2000&theme=algolia">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eranga2000&theme=algolia">
